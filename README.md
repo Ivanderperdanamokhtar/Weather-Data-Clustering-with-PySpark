@@ -75,10 +75,10 @@ The project analyzes and groups weather data based on the following features:
 - Seaborn
 
 Other Contributors (Kontributor Lainnya)
-Arsyiah Azahra
-Andini Nur Izzati
-Natanael Oktavianus Partahan Sihombing
-Audrey Ribka Desmonda Manihuruk
-Barrera Putraf
+- Natanael Oktavianus Partahan Sihombing
+- Arsyiah Azahra
+- Andini Nur Izzati
+- Audrey Ribka Desmonda Manihuruk
+- Barrera Putraf
 
 
