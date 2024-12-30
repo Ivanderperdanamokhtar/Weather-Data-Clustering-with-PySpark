@@ -1,5 +1,4 @@
 # Weather-Data-Clustering-with-PySpark
-# Weather Clustering Analysis
 
 ## Bahasa Indonesia
 
